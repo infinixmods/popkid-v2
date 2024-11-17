@@ -10,3 +10,7 @@ FORK MY REPO
         <img title="POPKID-V2" src="https://img.shields.io/badge/FORK%20Popkid%20V2-3498DB?style=for-the-badge&logo=nike" />
     </a>
 </div>
+
+- <a href="https://wa.me/254111385747" target="_blank">
+    <img alt="CLICK HERE" src="https://img.shields.io/badge/ On WhatsApp  -25D366?style=for-the-badge&logo=facebook&logoColor=green" />
+  </a>
