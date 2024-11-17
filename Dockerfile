@@ -9,16 +9,16 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN git clone https://github.com/infinixmods/popkid-v2  /root/Zokou_BOt
-WORKDIR /root/Zokou_Bot/
+RUN git clone https://github.com/SIMON32883/MR-ANYWAY-MD  /root/ToshTech
+WORKDIR /root/toshtech/
 
 
 COPY package.json .
 RUN npm install pm2 -g
-RUN npm install
+RUN npm install --legacy-peer-deps
 
 COPY . .
 
 EXPOSE 5000
 
-CMD ["npm", "run" , "web"]
+CMD ["npm", "run" , "index.js"]
