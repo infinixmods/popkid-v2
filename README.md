@@ -15,6 +15,7 @@ Now Deploy
 - <a href="https://wa.me/254111385747" target="_blank">
     <img alt="CLICK HERE" src="https://img.shields.io/badge/ On WhatsApp  -25D366?style=for-the-badge&logo=facebook&logoColor=yellow" /></a>
 
-<a href='https://popkid-sessions-a6044bc0a213.herokuapp.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Sbottom pair-900000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
+## GET YOUR SESSION ID
+<a href='https://popkid-sessions-a6044bc0a213.herokuapp.com/' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/pairing code-900000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
 
 
